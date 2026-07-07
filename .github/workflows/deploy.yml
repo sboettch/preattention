@@ -21,4 +21,4 @@ jobs:
           publish_dir: ./
           publish_branch: gh-pages
           exclude_assets: '.github,README.md'
-          cname: preattention.ai
+          cname: preattention.thesundaydata.com
